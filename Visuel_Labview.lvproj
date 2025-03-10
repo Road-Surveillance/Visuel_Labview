@@ -12,6 +12,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Consulter_Bilan.vi" Type="VI" URL="../Consulter_Bilan.vi"/>
+		<Item Name="Control 12.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/Control 12.ctl"/>
+		<Item Name="control_change_panel.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/control_change_panel.ctl"/>
+		<Item Name="numerique_indicator.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/numerique_indicator.ctl"/>
+		<Item Name="text_indicator.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/text_indicator.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

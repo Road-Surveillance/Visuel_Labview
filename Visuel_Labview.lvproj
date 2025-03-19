@@ -15,6 +15,9 @@
 		<Item Name="BilanPanel" Type="Folder">
 			<Item Name="Bilan.vi" Type="VI" URL="../BilanPanel/Bilan.vi"/>
 		</Item>
+		<Item Name="Python-Integration" Type="Folder">
+			<Item Name="Python-exec.vi" Type="VI" URL="../../../../../../../../../../Downloads/Python-exec.vi"/>
+		</Item>
 		<Item Name="SurveillancePanel" Type="Folder">
 			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
 			<Item Name="Direct.vi" Type="VI" URL="../SurveillancePanel/Direct.vi"/>

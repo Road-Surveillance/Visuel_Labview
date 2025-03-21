@@ -1,0 +1,3 @@
+[submodule "AI-LabView"]
+	path = AI-LabView
+	url = https://github.com/Road-Surveillance/AI-LabView.git

@@ -12,17 +12,23 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Assets" Type="Folder">
+			<Item Name="Control 12.ctl" Type="VI" URL="../Assets/Control 12.ctl"/>
+			<Item Name="control_change_panel.ctl" Type="VI" URL="../Assets/control_change_panel.ctl"/>
+			<Item Name="image_bilan_button.png" Type="Document" URL="../Assets/image_bilan_button.png"/>
+			<Item Name="numerique_indicator.ctl" Type="VI" URL="../Assets/numerique_indicator.ctl"/>
+			<Item Name="text_indicator.ctl" Type="VI" URL="../Assets/text_indicator.ctl"/>
+		</Item>
 		<Item Name="BilanPanel" Type="Folder">
 			<Item Name="Bilan.vi" Type="VI" URL="../BilanPanel/Bilan.vi"/>
-		</Item>
-		<Item Name="Python-Integration" Type="Folder">
-			<Item Name="Python-exec.vi" Type="VI" URL="../../../../../../../../../../Downloads/Python-exec.vi"/>
+			<Item Name="Create_image_legend.vi" Type="VI" URL="../BilanPanel/Create_image_legend.vi"/>
+			<Item Name="create_pie_legend.vi" Type="VI" URL="../BilanPanel/create_pie_legend.vi"/>
 		</Item>
 		<Item Name="SurveillancePanel" Type="Folder">
 			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
-			<Item Name="Consulter_Bilan.vi" Type="VI" URL="../SurveillancePanel/Consulter_Bilan.vi"/>
 			<Item Name="Direct.vi" Type="VI" URL="../SurveillancePanel/Direct.vi"/>
 		</Item>
+		<Item Name="mainPanel.vi" Type="VI" URL="../mainPanel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Pie Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Pie/3D Pie Datatype/3D Pie Datatype.lvclass"/>
@@ -104,8 +110,6 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="text_indicator.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/text_indicator.ctl"/>
-			<Item Name="text_indicator.ctl" Type="VI" URL="../SurveillancePanel/SurveillancePanel/CustomizedAssets/text_indicator.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -3,12 +3,12 @@ import torch
 import os
 import sys
 import argparse
-import shutil  # for removing directories
-import json  # for JSON output
+import shutil
+import json
 from typing import List
 import cv2
-import argparse
 import tensorflow as tf
+import keras
 from PIL import Image
 
 
@@ -113,7 +113,7 @@ class Detection:
         y[3] = x[3] - x[1]  # height
         return y
 
-color_model = tf.keras.models.load_model("../Car_Color_Detection.keras")
+color_model = tf.keras.models.load_model("../Car_Color_Detection.keras", compile=False)
 
 class_labels = ["beige", "black", "blue", "brown", "gold", "green", "grey",
                 "orange", "pink", "purple", "red", "silver", "tan", "white", "yellow"]
@@ -136,8 +136,7 @@ def detect_car_color(cropped_image_path):
         return "Unknown"
     
 
-
-def detect_and_export_json(image_path,weights_path="object.pt", img_size=1280, device="cpu", conf_thres=0.1,iou_thres=0.5):
+def detect_and_export_json(image_path, weights_path="object.pt", img_size=640, device="cpu", conf_thres=0.1, iou_thres=0.5):
     """
     Processes an image (from its path) to run detections,
     saves cropped regions, and returns a JSON string containing detection details.
@@ -147,7 +146,6 @@ def detect_and_export_json(image_path,weights_path="object.pt", img_size=1280, d
     os.makedirs("LPs", exist_ok=True)
     os.makedirs("Vehicle", exist_ok=True)
 
-
     # Initialize detector with the provided parameters
     detector = Detection(
         size=(img_size, img_size),
@@ -156,7 +154,6 @@ def detect_and_export_json(image_path,weights_path="object.pt", img_size=1280, d
         iou_thres=iou_thres,
         conf_thres=conf_thres,
     )
-
 
     # Read the image
     image = cv2.imread(image_path)
@@ -238,7 +235,7 @@ def parse_opt():
         "--img-size",
         nargs="+",
         type=int,
-        default=[1280],
+        default=[640],
         help="inference size for object detection",
     )
     parser.add_argument(
@@ -264,14 +261,20 @@ if __name__ == "__main__":
         os.makedirs(folder, exist_ok=True)
 
     opt = parse_opt()
-    obj_detector = Detection(size=tuple(opt.imgsz), weights_path="object.pt", device=opt.device, iou_thres=opt.iou_thres, conf_thres=opt.conf_thres)
 
     # Process a single image or all images in a directory
     if os.path.isdir(opt.source):
         img_names = os.listdir(opt.source)
         for img_name in img_names:
             img_path = os.path.join(opt.source, img_name)
-            json_output = detect_and_export_json(img_path, obj_detector)
+            json_output = detect_and_export_json(
+                img_path, 
+                weights_path=opt.weights, 
+                img_size=opt.imgsz[0], 
+                device=opt.device, 
+                conf_thres=opt.conf_thres, 
+                iou_thres=opt.iou_thres
+            )
             print("JSON output for", img_path)
             print(json_output)
             # Save JSON output to a file in json_out folder
@@ -282,7 +285,14 @@ if __name__ == "__main__":
                 jf.write(json_output)
             print(f"Saved JSON output to {json_filename}")
     else:
-        json_output = detect_and_export_json(opt.source, obj_detector)
+        json_output = detect_and_export_json(
+            opt.source, 
+            weights_path=opt.weights, 
+            img_size=opt.imgsz[0], 
+            device=opt.device, 
+            conf_thres=opt.conf_thres, 
+            iou_thres=opt.iou_thres
+        )
         print("JSON output for", opt.source)
         print(json_output)
         base_name = os.path.basename(opt.source)
@@ -292,4 +302,3 @@ if __name__ == "__main__":
         with open(json_filename, "w") as jf:
             jf.write(json_output)
         print(f"Saved JSON output to {json_filename}")
-

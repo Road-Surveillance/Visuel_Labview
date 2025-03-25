@@ -10,8 +10,9 @@
         1207,
         810
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_0.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "car",
@@ -22,8 +23,9 @@
         918,
         1002
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_1.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
     },
     {
       "label": "car",
@@ -34,8 +36,9 @@
         869,
         679
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_2.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "car",
@@ -46,8 +49,9 @@
         281,
         668
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_3.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
     },
     {
       "label": "car",
@@ -58,8 +62,9 @@
         245,
         977
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_4.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle4.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
     },
     {
       "label": "car",
@@ -70,8 +75,9 @@
         616,
         941
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_5.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
     },
     {
       "label": "car",
@@ -82,8 +88,9 @@
         534,
         415
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_6.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle6.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "car",
@@ -94,8 +101,9 @@
         352,
         444
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_7.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle7.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "motorbike",
@@ -106,8 +114,9 @@
         637,
         430
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_8.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle8.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
     },
     {
       "label": "car",
@@ -118,8 +127,9 @@
         479,
         317
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_9.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle9.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
     },
     {
       "label": "car",
@@ -130,8 +140,9 @@
         798,
         388
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_10.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle10.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "car",
@@ -142,8 +153,9 @@
         658,
         263
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_11.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle11.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
     },
     {
       "label": "car",
@@ -154,8 +166,9 @@
         706,
         298
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_12.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle12.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
     },
     {
       "label": "car",
@@ -166,8 +179,9 @@
         505,
         271
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_13.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle13.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
     },
     {
       "label": "car",
@@ -178,8 +192,9 @@
         434,
         241
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_14.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle14.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
     },
     {
       "label": "car",
@@ -190,8 +205,9 @@
         626,
         226
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_15.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle15.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
     },
     {
       "label": "car",
@@ -202,8 +218,9 @@
         603,
         354
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_17.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
     },
     {
       "label": "car",
@@ -214,8 +231,9 @@
         595,
         303
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_18.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle18.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
     },
     {
       "label": "car",
@@ -226,8 +244,9 @@
         457,
         218
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_19.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle19.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
     },
     {
       "label": "truck",
@@ -238,8 +257,9 @@
         594,
         271
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_20.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
     },
     {
       "label": "car",
@@ -250,8 +270,9 @@
         514,
         241
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_21.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle21.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
     },
     {
       "label": "car",
@@ -262,8 +283,9 @@
         515,
         211
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_22.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle22.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
     },
     {
       "label": "car",
@@ -274,8 +296,9 @@
         563,
         204
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_23.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle23.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
     },
     {
       "label": "face",
@@ -286,8 +309,9 @@
         622,
         374
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_25.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
     },
     {
       "label": "rectangle license plate",
@@ -298,8 +322,9 @@
         418,
         235
       ],
-      "crop_path": "LPs\\test_ai_license_plate_26.jpg",
-      "detection_type": "license_plate"
+      "crop_path": "LPs\\test_ailicense_plate26.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
     },
     {
       "label": "face",
@@ -310,8 +335,9 @@
         393,
         200
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_27.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle27.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
     },
     {
       "label": "car",
@@ -322,8 +348,9 @@
         620,
         212
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_28.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle28.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
     },
     {
       "label": "rectangle license plate",
@@ -334,8 +361,9 @@
         691,
         289
       ],
-      "crop_path": "LPs\\test_ai_license_plate_29.jpg",
-      "detection_type": "license_plate"
+      "crop_path": "LPs\\test_ailicense_plate29.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
     },
     {
       "label": "square license plate",
@@ -346,8 +374,9 @@
         554,
         198
       ],
-      "crop_path": "LPs\\test_ai_license_plate_30.jpg",
-      "detection_type": "license_plate"
+      "crop_path": "LPs\\test_ailicense_plate30.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
     },
     {
       "label": "car",
@@ -358,8 +387,9 @@
         466,
         196
       ],
-      "crop_path": "Vehicle\\test_ai_vehicle_31.jpg",
-      "detection_type": "vehicle"
+      "crop_path": "Vehicle\\test_aivehicle31.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
     },
     {
       "label": "rectangle license plate",
@@ -370,8 +400,9 @@
         442,
         212
       ],
-      "crop_path": "LPs\\test_ai_license_plate_32.jpg",
-      "detection_type": "license_plate"
+      "crop_path": "LPs\\test_ailicense_plate32.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
     },
     {
       "label": "rectangle license plate",
@@ -382,8 +413,9 @@
         441,
         211
       ],
-      "crop_path": "LPs\\test_ai_license_plate_33.jpg",
-      "detection_type": "license_plate"
+      "crop_path": "LPs\\test_ailicense_plate33.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
     }
   ]
 }

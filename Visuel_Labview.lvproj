@@ -12,23 +12,20 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Assets" Type="Folder">
-			<Item Name="Control 12.ctl" Type="VI" URL="../Assets/Control 12.ctl"/>
-			<Item Name="control_change_panel.ctl" Type="VI" URL="../Assets/control_change_panel.ctl"/>
-			<Item Name="image_bilan_button.png" Type="Document" URL="../Assets/image_bilan_button.png"/>
-			<Item Name="numerique_indicator.ctl" Type="VI" URL="../Assets/numerique_indicator.ctl"/>
-			<Item Name="text_indicator.ctl" Type="VI" URL="../Assets/text_indicator.ctl"/>
-		</Item>
 		<Item Name="BilanPanel" Type="Folder">
 			<Item Name="Bilan.vi" Type="VI" URL="../BilanPanel/Bilan.vi"/>
-			<Item Name="Create_image_legend.vi" Type="VI" URL="../BilanPanel/Create_image_legend.vi"/>
-			<Item Name="create_pie_legend.vi" Type="VI" URL="../BilanPanel/create_pie_legend.vi"/>
+		</Item>
+		<Item Name="Python-Integration" Type="Folder">
+			<Item Name="Get_JSON_data.vi" Type="VI" URL="../Python-Integration/Get_JSON_data.vi"/>
+			<Item Name="Python-exec.vi" Type="VI" URL="../Python-Integration/Python-exec.vi"/>
 		</Item>
 		<Item Name="SurveillancePanel" Type="Folder">
 			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
+			<Item Name="Consulter_Bilan.vi" Type="VI" URL="../SurveillancePanel/Consulter_Bilan.vi"/>
 			<Item Name="Direct.vi" Type="VI" URL="../SurveillancePanel/Direct.vi"/>
 		</Item>
-		<Item Name="mainPanel.vi" Type="VI" URL="../mainPanel.vi"/>
+		<Item Name="date_and_time.vi" Type="VI" URL="../SurveillancePanel/date_and_time.vi"/>
+		<Item Name="Get_All_detections_JSON.vi" Type="VI" URL="../Python-Integration/Get_All_detections_JSON.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Pie Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Pie/3D Pie Datatype/3D Pie Datatype.lvclass"/>
@@ -41,6 +38,7 @@
 				<Item Name="3DMathPlot Ctrl Act Cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Action String/3DMathPlot Ctrl Act Cluster.ctl"/>
 				<Item Name="3DMathPlot Ctrl Act Queue.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Action String/3DMathPlot Ctrl Act Queue.ctl"/>
 				<Item Name="3DMathPlot State Class.ctl" Type="VI" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Plot/Action String/3DMathPlot State Class.ctl"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
@@ -77,7 +75,6 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LV3DPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LV3DPointTypeDef.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_3D Picture Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/picture/3D Picture Control/NI_3D Picture Control.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -110,6 +107,8 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="text_indicator.ctl" Type="VI" URL="../SurveillancePanel/CustomizedAssets/text_indicator.ctl"/>
+			<Item Name="text_indicator.ctl" Type="VI" URL="../SurveillancePanel/SurveillancePanel/CustomizedAssets/text_indicator.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

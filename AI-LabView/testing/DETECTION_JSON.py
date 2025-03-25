@@ -39,6 +39,7 @@ class Detection:
 
     def preprocess_image(self, original_image):
         resized_img = self.ResizeImg(original_image, size=self.size)
+        cv2.imwrite("ImageResized.jpg", resized_img)
         image = resized_img.copy()[:, :, ::-1].transpose(
             2, 0, 1
         )  # BGR -> RGB, shape: 3 x H x W

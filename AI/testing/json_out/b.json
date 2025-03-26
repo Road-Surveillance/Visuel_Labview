@@ -1,0 +1,460 @@
+{
+  "annotated_image": "out\\b.jpg",
+  "detections": [
+    {
+      "label": "car",
+      "confidence": 0.9521026015281677,
+      "bbox": [
+        461,
+        355,
+        558,
+        428
+      ],
+      "crop_path": "Vehicle\\bvehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9517470002174377,
+      "bbox": [
+        387,
+        443,
+        490,
+        528
+      ],
+      "crop_path": "Vehicle\\bvehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9462106823921204,
+      "bbox": [
+        290,
+        381,
+        364,
+        445
+      ],
+      "crop_path": "Vehicle\\bvehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.93999183177948,
+      "bbox": [
+        213,
+        407,
+        291,
+        483
+      ],
+      "crop_path": "Vehicle\\bvehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9209151268005371,
+      "bbox": [
+        237,
+        336,
+        298,
+        381
+      ],
+      "crop_path": "Vehicle\\bvehicle4.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.92069011926651,
+      "bbox": [
+        342,
+        222,
+        455,
+        322
+      ],
+      "crop_path": "Vehicle\\bvehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9182392358779907,
+      "bbox": [
+        149,
+        354,
+        207,
+        399
+      ],
+      "crop_path": "Vehicle\\bvehicle6.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "purple"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9160028696060181,
+      "bbox": [
+        332,
+        290,
+        391,
+        336
+      ],
+      "crop_path": "Vehicle\\bvehicle7.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9045409560203552,
+      "bbox": [
+        520,
+        315,
+        580,
+        351
+      ],
+      "crop_path": "Vehicle\\bvehicle8.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8960258364677429,
+      "bbox": [
+        55,
+        395,
+        126,
+        451
+      ],
+      "crop_path": "Vehicle\\bvehicle9.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8752008676528931,
+      "bbox": [
+        543,
+        354,
+        631,
+        414
+      ],
+      "crop_path": "Vehicle\\bvehicle10.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.8751339912414551,
+      "bbox": [
+        85,
+        205,
+        147,
+        303
+      ],
+      "crop_path": "Vehicle\\bvehicle11.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8693772554397583,
+      "bbox": [
+        274,
+        256,
+        321,
+        296
+      ],
+      "crop_path": "Vehicle\\bvehicle12.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8560367226600647,
+      "bbox": [
+        207,
+        308,
+        258,
+        346
+      ],
+      "crop_path": "Vehicle\\bvehicle13.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8460038900375366,
+      "bbox": [
+        436,
+        300,
+        504,
+        351
+      ],
+      "crop_path": "Vehicle\\bvehicle14.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8080678582191467,
+      "bbox": [
+        617,
+        228,
+        639,
+        257
+      ],
+      "crop_path": "Vehicle\\bvehicle15.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.802348256111145,
+      "bbox": [
+        95,
+        175,
+        159,
+        217
+      ],
+      "crop_path": "Vehicle\\bvehicle16.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7890933156013489,
+      "bbox": [
+        64,
+        421,
+        232,
+        530
+      ],
+      "crop_path": "Vehicle\\bvehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7264810800552368,
+      "bbox": [
+        35,
+        315,
+        100,
+        377
+      ],
+      "crop_path": "Vehicle\\bvehicle18.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.6750848293304443,
+      "bbox": [
+        448,
+        505,
+        461,
+        515
+      ],
+      "crop_path": "LPs\\blicense_plate19.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.662916362285614,
+      "bbox": [
+        186,
+        287,
+        235,
+        324
+      ],
+      "crop_path": "Vehicle\\bvehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.592913031578064,
+      "bbox": [
+        6,
+        239,
+        58,
+        300
+      ],
+      "crop_path": "Vehicle\\bvehicle21.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.407335102558136,
+      "bbox": [
+        283,
+        185,
+        326,
+        249
+      ],
+      "crop_path": "Vehicle\\bvehicle22.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.2771056592464447,
+      "bbox": [
+        329,
+        421,
+        347,
+        427
+      ],
+      "crop_path": "LPs\\blicense_plate23.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.2506231963634491,
+      "bbox": [
+        29,
+        305,
+        97,
+        353
+      ],
+      "crop_path": "Vehicle\\bvehicle24.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.22516997158527374,
+      "bbox": [
+        289,
+        172,
+        339,
+        235
+      ],
+      "crop_path": "Vehicle\\bvehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.21638815104961395,
+      "bbox": [
+        0,
+        127,
+        12,
+        154
+      ],
+      "crop_path": "Vehicle\\bvehicle26.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.1579677015542984,
+      "bbox": [
+        144,
+        217,
+        183,
+        256
+      ],
+      "crop_path": "Vehicle\\bvehicle27.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.14441710710525513,
+      "bbox": [
+        161,
+        253,
+        202,
+        303
+      ],
+      "crop_path": "Vehicle\\bvehicle28.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.1431206613779068,
+      "bbox": [
+        32,
+        217,
+        66,
+        255
+      ],
+      "crop_path": "Vehicle\\bvehicle29.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.13977226614952087,
+      "bbox": [
+        44,
+        202,
+        87,
+        232
+      ],
+      "crop_path": "Vehicle\\bvehicle30.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.13245923817157745,
+      "bbox": [
+        245,
+        234,
+        282,
+        270
+      ],
+      "crop_path": "Vehicle\\bvehicle31.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.12738335132598877,
+      "bbox": [
+        254,
+        472,
+        274,
+        479
+      ],
+      "crop_path": "LPs\\blicense_plate32.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.12480682134628296,
+      "bbox": [
+        174,
+        385,
+        188,
+        391
+      ],
+      "crop_path": "LPs\\blicense_plate33.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.11985264718532562,
+      "bbox": [
+        510,
+        146,
+        558,
+        173
+      ],
+      "crop_path": "Vehicle\\bvehicle34.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    }
+  ]
+}

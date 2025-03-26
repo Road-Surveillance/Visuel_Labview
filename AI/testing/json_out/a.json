@@ -1,0 +1,707 @@
+{
+  "annotated_image": "out\\a.jpg",
+  "detections": [
+    {
+      "label": "car",
+      "confidence": 0.9673991203308105,
+      "bbox": [
+        428,
+        411,
+        614,
+        532
+      ],
+      "crop_path": "Vehicle\\avehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9409704208374023,
+      "bbox": [
+        257,
+        153,
+        334,
+        225
+      ],
+      "crop_path": "Vehicle\\avehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9382915496826172,
+      "bbox": [
+        13,
+        204,
+        119,
+        300
+      ],
+      "crop_path": "Vehicle\\avehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9374532699584961,
+      "bbox": [
+        384,
+        241,
+        493,
+        361
+      ],
+      "crop_path": "Vehicle\\avehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9311165809631348,
+      "bbox": [
+        530,
+        234,
+        634,
+        321
+      ],
+      "crop_path": "Vehicle\\avehicle4.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9278988242149353,
+      "bbox": [
+        371,
+        356,
+        523,
+        488
+      ],
+      "crop_path": "Vehicle\\avehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9241359829902649,
+      "bbox": [
+        102,
+        348,
+        303,
+        531
+      ],
+      "crop_path": "Vehicle\\avehicle6.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9197048544883728,
+      "bbox": [
+        413,
+        302,
+        552,
+        407
+      ],
+      "crop_path": "Vehicle\\avehicle7.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9121465086936951,
+      "bbox": [
+        192,
+        252,
+        314,
+        356
+      ],
+      "crop_path": "Vehicle\\avehicle8.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9115821123123169,
+      "bbox": [
+        473,
+        146,
+        549,
+        221
+      ],
+      "crop_path": "Vehicle\\avehicle9.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9025585651397705,
+      "bbox": [
+        190,
+        294,
+        303,
+        412
+      ],
+      "crop_path": "Vehicle\\avehicle10.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9025264382362366,
+      "bbox": [
+        207,
+        176,
+        294,
+        244
+      ],
+      "crop_path": "Vehicle\\avehicle11.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9016725420951843,
+      "bbox": [
+        562,
+        109,
+        623,
+        165
+      ],
+      "crop_path": "Vehicle\\avehicle12.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9002110362052917,
+      "bbox": [
+        0,
+        373,
+        40,
+        497
+      ],
+      "crop_path": "Vehicle\\avehicle13.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.8995099663734436,
+      "bbox": [
+        212,
+        114,
+        299,
+        192
+      ],
+      "crop_path": "Vehicle\\avehicle14.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8953279256820679,
+      "bbox": [
+        22,
+        126,
+        83,
+        194
+      ],
+      "crop_path": "Vehicle\\avehicle15.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8947365283966064,
+      "bbox": [
+        366,
+        202,
+        481,
+        287
+      ],
+      "crop_path": "Vehicle\\avehicle16.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8906240463256836,
+      "bbox": [
+        102,
+        144,
+        180,
+        218
+      ],
+      "crop_path": "Vehicle\\avehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.883455216884613,
+      "bbox": [
+        50,
+        109,
+        111,
+        163
+      ],
+      "crop_path": "Vehicle\\avehicle18.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8834512829780579,
+      "bbox": [
+        601,
+        135,
+        639,
+        195
+      ],
+      "crop_path": "Vehicle\\avehicle19.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8675744533538818,
+      "bbox": [
+        0,
+        245,
+        88,
+        318
+      ],
+      "crop_path": "Vehicle\\avehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8498304486274719,
+      "bbox": [
+        520,
+        171,
+        614,
+        249
+      ],
+      "crop_path": "Vehicle\\avehicle21.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8484811782836914,
+      "bbox": [
+        0,
+        287,
+        94,
+        432
+      ],
+      "crop_path": "Vehicle\\avehicle22.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.840668797492981,
+      "bbox": [
+        136,
+        126,
+        195,
+        190
+      ],
+      "crop_path": "Vehicle\\avehicle23.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7997073531150818,
+      "bbox": [
+        1,
+        148,
+        55,
+        208
+      ],
+      "crop_path": "Vehicle\\avehicle24.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7983904480934143,
+      "bbox": [
+        451,
+        110,
+        512,
+        166
+      ],
+      "crop_path": "Vehicle\\avehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7802932858467102,
+      "bbox": [
+        540,
+        192,
+        639,
+        271
+      ],
+      "crop_path": "Vehicle\\avehicle26.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7531542778015137,
+      "bbox": [
+        337,
+        108,
+        395,
+        156
+      ],
+      "crop_path": "Vehicle\\avehicle27.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7291445136070251,
+      "bbox": [
+        60,
+        190,
+        134,
+        271
+      ],
+      "crop_path": "Vehicle\\avehicle28.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7165433764457703,
+      "bbox": [
+        77,
+        165,
+        159,
+        231
+      ],
+      "crop_path": "Vehicle\\avehicle29.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.6864418387413025,
+      "bbox": [
+        537,
+        109,
+        566,
+        141
+      ],
+      "crop_path": "Vehicle\\avehicle30.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "orange"
+    },
+    {
+      "label": "car",
+      "confidence": 0.6456802487373352,
+      "bbox": [
+        147,
+        109,
+        209,
+        156
+      ],
+      "crop_path": "Vehicle\\avehicle31.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.5942432284355164,
+      "bbox": [
+        161,
+        231,
+        287,
+        335
+      ],
+      "crop_path": "Vehicle\\avehicle32.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.5425536036491394,
+      "bbox": [
+        0,
+        155,
+        32,
+        220
+      ],
+      "crop_path": "Vehicle\\avehicle33.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.4788200855255127,
+      "bbox": [
+        506,
+        105,
+        543,
+        135
+      ],
+      "crop_path": "Vehicle\\avehicle35.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.4708467125892639,
+      "bbox": [
+        192,
+        107,
+        217,
+        129
+      ],
+      "crop_path": "Vehicle\\avehicle36.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.4483022391796112,
+      "bbox": [
+        105,
+        221,
+        131,
+        289
+      ],
+      "crop_path": "Vehicle\\avehicle37.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.4238629937171936,
+      "bbox": [
+        65,
+        494,
+        235,
+        534
+      ],
+      "crop_path": "Vehicle\\avehicle38.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.3574221730232239,
+      "bbox": [
+        458,
+        130,
+        546,
+        185
+      ],
+      "crop_path": "Vehicle\\avehicle39.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.3373870253562927,
+      "bbox": [
+        177,
+        193,
+        295,
+        271
+      ],
+      "crop_path": "Vehicle\\avehicle40.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.3320867419242859,
+      "bbox": [
+        501,
+        111,
+        546,
+        149
+      ],
+      "crop_path": "Vehicle\\avehicle41.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.3164367377758026,
+      "bbox": [
+        165,
+        125,
+        203,
+        186
+      ],
+      "crop_path": "Vehicle\\avehicle42.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "bus",
+      "confidence": 0.30391725897789,
+      "bbox": [
+        354,
+        119,
+        454,
+        239
+      ],
+      "crop_path": "Vehicle\\avehicle43.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.2802821695804596,
+      "bbox": [
+        353,
+        182,
+        440,
+        264
+      ],
+      "crop_path": "Vehicle\\avehicle44.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.23714248836040497,
+      "bbox": [
+        95,
+        107,
+        132,
+        139
+      ],
+      "crop_path": "Vehicle\\avehicle45.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.22515903413295746,
+      "bbox": [
+        225,
+        109,
+        302,
+        143
+      ],
+      "crop_path": "Vehicle\\avehicle46.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "van",
+      "confidence": 0.223369762301445,
+      "bbox": [
+        615,
+        265,
+        639,
+        428
+      ],
+      "crop_path": "Vehicle\\avehicle47.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.21832039952278137,
+      "bbox": [
+        346,
+        115,
+        396,
+        185
+      ],
+      "crop_path": "Vehicle\\avehicle48.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.20362986624240875,
+      "bbox": [
+        619,
+        110,
+        640,
+        137
+      ],
+      "crop_path": "Vehicle\\avehicle49.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.160257488489151,
+      "bbox": [
+        161,
+        240,
+        230,
+        333
+      ],
+      "crop_path": "Vehicle\\avehicle50.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.1601252257823944,
+      "bbox": [
+        0,
+        207,
+        8,
+        214
+      ],
+      "crop_path": "LPs\\alicense_plate51.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.15140558779239655,
+      "bbox": [
+        301,
+        211,
+        317,
+        217
+      ],
+      "crop_path": "LPs\\alicense_plate52.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.12613236904144287,
+      "bbox": [
+        546,
+        109,
+        575,
+        142
+      ],
+      "crop_path": "Vehicle\\avehicle53.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.11859677731990814,
+      "bbox": [
+        495,
+        125,
+        549,
+        161
+      ],
+      "crop_path": "Vehicle\\avehicle54.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    }
+  ]
+}

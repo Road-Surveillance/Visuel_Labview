@@ -1,0 +1,31 @@
+{
+  "annotated_image": "out\\images.jpg",
+  "detections": [
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.7001335024833679,
+      "bbox": [
+        138,
+        224,
+        489,
+        372
+      ],
+      "crop_path": "LPs\\imageslicense_plate0.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.12535084784030914,
+      "bbox": [
+        -1,
+        174,
+        660,
+        456
+      ],
+      "crop_path": "LPs\\imageslicense_plate1.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    }
+  ]
+}

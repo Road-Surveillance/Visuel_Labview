@@ -1,0 +1,356 @@
+{
+  "annotated_image": "out\\ccc.jpg",
+  "detections": [
+    {
+      "label": "car",
+      "confidence": 0.9526744484901428,
+      "bbox": [
+        23,
+        442,
+        170,
+        533
+      ],
+      "crop_path": "Vehicle\\cccvehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9361665844917297,
+      "bbox": [
+        556,
+        327,
+        639,
+        420
+      ],
+      "crop_path": "Vehicle\\cccvehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9237619042396545,
+      "bbox": [
+        302,
+        422,
+        451,
+        530
+      ],
+      "crop_path": "Vehicle\\cccvehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9165103435516357,
+      "bbox": [
+        86,
+        345,
+        213,
+        451
+      ],
+      "crop_path": "Vehicle\\cccvehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9145164489746094,
+      "bbox": [
+        512,
+        290,
+        627,
+        381
+      ],
+      "crop_path": "Vehicle\\cccvehicle4.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9116156101226807,
+      "bbox": [
+        474,
+        216,
+        576,
+        298
+      ],
+      "crop_path": "Vehicle\\cccvehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8888234496116638,
+      "bbox": [
+        494,
+        421,
+        561,
+        515
+      ],
+      "crop_path": "Vehicle\\cccvehicle6.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8830501437187195,
+      "bbox": [
+        120,
+        233,
+        212,
+        313
+      ],
+      "crop_path": "Vehicle\\cccvehicle7.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8559674024581909,
+      "bbox": [
+        422,
+        134,
+        498,
+        202
+      ],
+      "crop_path": "Vehicle\\cccvehicle9.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8468790054321289,
+      "bbox": [
+        400,
+        109,
+        464,
+        170
+      ],
+      "crop_path": "Vehicle\\cccvehicle10.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.8417242169380188,
+      "bbox": [
+        131,
+        420,
+        169,
+        430
+      ],
+      "crop_path": "LPs\\ccclicense_plate11.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.7906572222709656,
+      "bbox": [
+        444,
+        169,
+        531,
+        234
+      ],
+      "crop_path": "Vehicle\\cccvehicle12.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.7476485967636108,
+      "bbox": [
+        361,
+        510,
+        391,
+        520
+      ],
+      "crop_path": "LPs\\ccclicense_plate13.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.7026036381721497,
+      "bbox": [
+        382,
+        107,
+        410,
+        132
+      ],
+      "crop_path": "Vehicle\\cccvehicle14.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.6996598839759827,
+      "bbox": [
+        0,
+        107,
+        56,
+        245
+      ],
+      "crop_path": "Vehicle\\cccvehicle15.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.6888342499732971,
+      "bbox": [
+        294,
+        257,
+        419,
+        380
+      ],
+      "crop_path": "Vehicle\\cccvehicle16.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.5995721817016602,
+      "bbox": [
+        73,
+        267,
+        201,
+        394
+      ],
+      "crop_path": "Vehicle\\cccvehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "truck",
+      "confidence": 0.5639169812202454,
+      "bbox": [
+        250,
+        110,
+        348,
+        217
+      ],
+      "crop_path": "Vehicle\\cccvehicle18.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.5463444590568542,
+      "bbox": [
+        245,
+        184,
+        341,
+        305
+      ],
+      "crop_path": "Vehicle\\cccvehicle19.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.46985435485839844,
+      "bbox": [
+        111,
+        155,
+        199,
+        239
+      ],
+      "crop_path": "Vehicle\\cccvehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.4574648141860962,
+      "bbox": [
+        517,
+        258,
+        635,
+        327
+      ],
+      "crop_path": "Vehicle\\cccvehicle21.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.44557392597198486,
+      "bbox": [
+        610,
+        395,
+        631,
+        403
+      ],
+      "crop_path": "LPs\\ccclicense_plate22.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.4102378785610199,
+      "bbox": [
+        280,
+        281,
+        303,
+        287
+      ],
+      "crop_path": "LPs\\ccclicense_plate24.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.31769415736198425,
+      "bbox": [
+        123,
+        107,
+        204,
+        165
+      ],
+      "crop_path": "Vehicle\\cccvehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.2516661286354065,
+      "bbox": [
+        467,
+        192,
+        562,
+        264
+      ],
+      "crop_path": "Vehicle\\cccvehicle26.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.2377059906721115,
+      "bbox": [
+        519,
+        273,
+        532,
+        279
+      ],
+      "crop_path": "LPs\\ccclicense_plate27.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.1212550699710846,
+      "bbox": [
+        362,
+        413,
+        393,
+        422
+      ],
+      "crop_path": "LPs\\ccclicense_plate28.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    }
+  ]
+}

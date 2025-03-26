@@ -1,0 +1,1526 @@
+{
+  "annotated_image": "out\\vn.jpg",
+  "detections": [
+    {
+      "label": "car",
+      "confidence": 0.9520289301872253,
+      "bbox": [
+        332,
+        431,
+        423,
+        516
+      ],
+      "crop_path": "Vehicle\\vnvehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.9264016151428223,
+      "bbox": [
+        124,
+        523,
+        188,
+        571
+      ],
+      "crop_path": "Vehicle\\vnvehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.9097865223884583,
+      "bbox": [
+        39,
+        498,
+        104,
+        555
+      ],
+      "crop_path": "Vehicle\\vnvehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9013543128967285,
+      "bbox": [
+        310,
+        352,
+        371,
+        406
+      ],
+      "crop_path": "Vehicle\\vnvehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8970019817352295,
+      "bbox": [
+        548,
+        515,
+        607,
+        577
+      ],
+      "crop_path": "Vehicle\\vnvehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8903282284736633,
+      "bbox": [
+        189,
+        389,
+        284,
+        448
+      ],
+      "crop_path": "Vehicle\\vnvehicle8.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8690391182899475,
+      "bbox": [
+        306,
+        336,
+        321,
+        359
+      ],
+      "crop_path": "Vehicle\\vnvehicle11.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.858953595161438,
+      "bbox": [
+        186,
+        629,
+        197,
+        637
+      ],
+      "crop_path": "LPs\\vnlicense_plate15.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.85049968957901,
+      "bbox": [
+        273,
+        344,
+        288,
+        367
+      ],
+      "crop_path": "Vehicle\\vnvehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8480266332626343,
+      "bbox": [
+        315,
+        538,
+        341,
+        592
+      ],
+      "crop_path": "Vehicle\\vnvehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.834484338760376,
+      "bbox": [
+        16,
+        356,
+        58,
+        379
+      ],
+      "crop_path": "Vehicle\\vnvehicle22.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.8339455127716064,
+      "bbox": [
+        284,
+        503,
+        294,
+        510
+      ],
+      "crop_path": "LPs\\vnlicense_plate23.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8310624361038208,
+      "bbox": [
+        575,
+        414,
+        637,
+        454
+      ],
+      "crop_path": "Vehicle\\vnvehicle24.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8291967511177063,
+      "bbox": [
+        399,
+        295,
+        439,
+        330
+      ],
+      "crop_path": "Vehicle\\vnvehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8278035521507263,
+      "bbox": [
+        320,
+        420,
+        335,
+        452
+      ],
+      "crop_path": "Vehicle\\vnvehicle26.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8215369582176208,
+      "bbox": [
+        412,
+        455,
+        440,
+        500
+      ],
+      "crop_path": "Vehicle\\vnvehicle27.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8215198516845703,
+      "bbox": [
+        460,
+        430,
+        494,
+        472
+      ],
+      "crop_path": "Vehicle\\vnvehicle28.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.8197796940803528,
+      "bbox": [
+        526,
+        567,
+        536,
+        575
+      ],
+      "crop_path": "LPs\\vnlicense_plate29.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8195275664329529,
+      "bbox": [
+        0,
+        547,
+        32,
+        600
+      ],
+      "crop_path": "Vehicle\\vnvehicle30.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8194003105163574,
+      "bbox": [
+        165,
+        414,
+        186,
+        451
+      ],
+      "crop_path": "Vehicle\\vnvehicle31.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.8173688650131226,
+      "bbox": [
+        390,
+        501,
+        407,
+        508
+      ],
+      "crop_path": "LPs\\vnlicense_plate33.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8101656436920166,
+      "bbox": [
+        365,
+        405,
+        387,
+        435
+      ],
+      "crop_path": "Vehicle\\vnvehicle34.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8055489659309387,
+      "bbox": [
+        386,
+        383,
+        403,
+        414
+      ],
+      "crop_path": "Vehicle\\vnvehicle35.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.800260066986084,
+      "bbox": [
+        262,
+        446,
+        270,
+        452
+      ],
+      "crop_path": "LPs\\vnlicense_plate38.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.7903212308883667,
+      "bbox": [
+        120,
+        463,
+        167,
+        514
+      ],
+      "crop_path": "Vehicle\\vnvehicle39.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.7897595763206482,
+      "bbox": [
+        215,
+        460,
+        223,
+        466
+      ],
+      "crop_path": "LPs\\vnlicense_plate41.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.7827576398849487,
+      "bbox": [
+        295,
+        295,
+        308,
+        316
+      ],
+      "crop_path": "Vehicle\\vnvehicle42.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.774444580078125,
+      "bbox": [
+        367,
+        357,
+        385,
+        388
+      ],
+      "crop_path": "Vehicle\\vnvehicle45.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.7690627574920654,
+      "bbox": [
+        462,
+        452,
+        471,
+        458
+      ],
+      "crop_path": "LPs\\vnlicense_plate47.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.7393642663955688,
+      "bbox": [
+        608,
+        474,
+        639,
+        531
+      ],
+      "crop_path": "Vehicle\\vnvehicle51.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.7355577349662781,
+      "bbox": [
+        376,
+        315,
+        394,
+        340
+      ],
+      "crop_path": "Vehicle\\vnvehicle52.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "car",
+      "confidence": 0.7261734008789062,
+      "bbox": [
+        0,
+        472,
+        80,
+        558
+      ],
+      "crop_path": "Vehicle\\vnvehicle54.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.7203282117843628,
+      "bbox": [
+        123,
+        494,
+        131,
+        501
+      ],
+      "crop_path": "LPs\\vnlicense_plate55.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.7143332958221436,
+      "bbox": [
+        325,
+        257,
+        364,
+        283
+      ],
+      "crop_path": "Vehicle\\vnvehicle58.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6859501600265503,
+      "bbox": [
+        486,
+        404,
+        512,
+        437
+      ],
+      "crop_path": "Vehicle\\vnvehicle61.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "purple"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6625056862831116,
+      "bbox": [
+        257,
+        421,
+        288,
+        465
+      ],
+      "crop_path": "Vehicle\\vnvehicle64.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6576009392738342,
+      "bbox": [
+        289,
+        369,
+        306,
+        397
+      ],
+      "crop_path": "Vehicle\\vnvehicle66.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6557677984237671,
+      "bbox": [
+        207,
+        442,
+        229,
+        476
+      ],
+      "crop_path": "Vehicle\\vnvehicle67.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6322934627532959,
+      "bbox": [
+        282,
+        482,
+        309,
+        525
+      ],
+      "crop_path": "Vehicle\\vnvehicle72.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.629778265953064,
+      "bbox": [
+        294,
+        356,
+        300,
+        361
+      ],
+      "crop_path": "Vehicle\\vnvehicle73.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.6278001666069031,
+      "bbox": [
+        329,
+        567,
+        339,
+        574
+      ],
+      "crop_path": "LPs\\vnlicense_plate75.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.6229664087295532,
+      "bbox": [
+        314,
+        293,
+        330,
+        315
+      ],
+      "crop_path": "Vehicle\\vnvehicle77.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "face",
+      "confidence": 0.6167910695075989,
+      "bbox": [
+        372,
+        392,
+        378,
+        398
+      ],
+      "crop_path": "Vehicle\\vnvehicle78.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.5987480878829956,
+      "bbox": [
+        401,
+        350,
+        407,
+        355
+      ],
+      "crop_path": "Vehicle\\vnvehicle80.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5961923003196716,
+      "bbox": [
+        473,
+        371,
+        493,
+        396
+      ],
+      "crop_path": "Vehicle\\vnvehicle81.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "face",
+      "confidence": 0.5945194959640503,
+      "bbox": [
+        392,
+        423,
+        399,
+        429
+      ],
+      "crop_path": "Vehicle\\vnvehicle83.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5879513621330261,
+      "bbox": [
+        606,
+        355,
+        629,
+        391
+      ],
+      "crop_path": "Vehicle\\vnvehicle84.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5858389139175415,
+      "bbox": [
+        250,
+        300,
+        265,
+        323
+      ],
+      "crop_path": "Vehicle\\vnvehicle85.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5845115780830383,
+      "bbox": [
+        587,
+        299,
+        600,
+        316
+      ],
+      "crop_path": "Vehicle\\vnvehicle86.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5803165435791016,
+      "bbox": [
+        395,
+        363,
+        411,
+        391
+      ],
+      "crop_path": "Vehicle\\vnvehicle88.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.5598234534263611,
+      "bbox": [
+        268,
+        277,
+        281,
+        303
+      ],
+      "crop_path": "Vehicle\\vnvehicle91.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.5567226409912109,
+      "bbox": [
+        179,
+        555,
+        187,
+        563
+      ],
+      "crop_path": "LPs\\vnlicense_plate92.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "face",
+      "confidence": 0.5492713451385498,
+      "bbox": [
+        417,
+        386,
+        423,
+        392
+      ],
+      "crop_path": "Vehicle\\vnvehicle93.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.519500195980072,
+      "bbox": [
+        373,
+        347,
+        379,
+        353
+      ],
+      "crop_path": "Vehicle\\vnvehicle98.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.5088819265365601,
+      "bbox": [
+        548,
+        396,
+        555,
+        401
+      ],
+      "crop_path": "LPs\\vnlicense_plate100.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.4941199719905853,
+      "bbox": [
+        340,
+        326,
+        358,
+        348
+      ],
+      "crop_path": "Vehicle\\vnvehicle103.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "face",
+      "confidence": 0.48698416352272034,
+      "bbox": [
+        354,
+        335,
+        359,
+        341
+      ],
+      "crop_path": "Vehicle\\vnvehicle107.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.4755370020866394,
+      "bbox": [
+        74,
+        587,
+        158,
+        640
+      ],
+      "crop_path": "Vehicle\\vnvehicle108.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "face",
+      "confidence": 0.4738917052745819,
+      "bbox": [
+        373,
+        349,
+        379,
+        355
+      ],
+      "crop_path": "Vehicle\\vnvehicle109.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.47242113947868347,
+      "bbox": [
+        372,
+        275,
+        384,
+        291
+      ],
+      "crop_path": "Vehicle\\vnvehicle110.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.462997168302536,
+      "bbox": [
+        258,
+        434,
+        279,
+        466
+      ],
+      "crop_path": "Vehicle\\vnvehicle111.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.45776525139808655,
+      "bbox": [
+        314,
+        335,
+        331,
+        355
+      ],
+      "crop_path": "Vehicle\\vnvehicle113.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.45240047574043274,
+      "bbox": [
+        442,
+        285,
+        457,
+        303
+      ],
+      "crop_path": "Vehicle\\vnvehicle115.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.44771233201026917,
+      "bbox": [
+        21,
+        573,
+        30,
+        581
+      ],
+      "crop_path": "LPs\\vnlicense_plate117.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "face",
+      "confidence": 0.4422317445278168,
+      "bbox": [
+        311,
+        325,
+        316,
+        330
+      ],
+      "crop_path": "Vehicle\\vnvehicle120.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.4325394034385681,
+      "bbox": [
+        280,
+        280,
+        295,
+        303
+      ],
+      "crop_path": "Vehicle\\vnvehicle121.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.42529699206352234,
+      "bbox": [
+        418,
+        323,
+        444,
+        351
+      ],
+      "crop_path": "Vehicle\\vnvehicle122.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.3951717019081116,
+      "bbox": [
+        355,
+        296,
+        370,
+        318
+      ],
+      "crop_path": "Vehicle\\vnvehicle123.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.39421236515045166,
+      "bbox": [
+        49,
+        609,
+        59,
+        618
+      ],
+      "crop_path": "LPs\\vnlicense_plate124.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.3896726369857788,
+      "bbox": [
+        474,
+        381,
+        480,
+        385
+      ],
+      "crop_path": "LPs\\vnlicense_plate125.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.3891044557094574,
+      "bbox": [
+        486,
+        422,
+        494,
+        427
+      ],
+      "crop_path": "LPs\\vnlicense_plate126.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.3874979615211487,
+      "bbox": [
+        414,
+        403,
+        436,
+        442
+      ],
+      "crop_path": "Vehicle\\vnvehicle127.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.36773955821990967,
+      "bbox": [
+        421,
+        419,
+        429,
+        426
+      ],
+      "crop_path": "Vehicle\\vnvehicle130.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.36617299914360046,
+      "bbox": [
+        45,
+        576,
+        107,
+        631
+      ],
+      "crop_path": "Vehicle\\vnvehicle131.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "face",
+      "confidence": 0.3650522232055664,
+      "bbox": [
+        326,
+        308,
+        332,
+        313
+      ],
+      "crop_path": "Vehicle\\vnvehicle132.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.36344537138938904,
+      "bbox": [
+        608,
+        309,
+        614,
+        313
+      ],
+      "crop_path": "LPs\\vnlicense_plate133.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.35640424489974976,
+      "bbox": [
+        606,
+        293,
+        620,
+        317
+      ],
+      "crop_path": "Vehicle\\vnvehicle134.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.3399916887283325,
+      "bbox": [
+        273,
+        353,
+        278,
+        356
+      ],
+      "crop_path": "LPs\\vnlicense_plate136.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.3246491849422455,
+      "bbox": [
+        409,
+        396,
+        435,
+        430
+      ],
+      "crop_path": "Vehicle\\vnvehicle138.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.2977738082408905,
+      "bbox": [
+        461,
+        361,
+        478,
+        387
+      ],
+      "crop_path": "Vehicle\\vnvehicle143.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.2922527492046356,
+      "bbox": [
+        284,
+        498,
+        300,
+        513
+      ],
+      "crop_path": "LPs\\vnlicense_plate145.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "face",
+      "confidence": 0.2766174376010895,
+      "bbox": [
+        421,
+        439,
+        430,
+        447
+      ],
+      "crop_path": "Vehicle\\vnvehicle148.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "orange"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.2710246443748474,
+      "bbox": [
+        203,
+        424,
+        214,
+        431
+      ],
+      "crop_path": "LPs\\vnlicense_plate149.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.26036354899406433,
+      "bbox": [
+        309,
+        245,
+        319,
+        260
+      ],
+      "crop_path": "Vehicle\\vnvehicle151.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.25772979855537415,
+      "bbox": [
+        288,
+        403,
+        311,
+        435
+      ],
+      "crop_path": "Vehicle\\vnvehicle152.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "face",
+      "confidence": 0.25225281715393066,
+      "bbox": [
+        401,
+        358,
+        408,
+        363
+      ],
+      "crop_path": "Vehicle\\vnvehicle153.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "face",
+      "confidence": 0.24663379788398743,
+      "bbox": [
+        393,
+        372,
+        399,
+        377
+      ],
+      "crop_path": "Vehicle\\vnvehicle154.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "face",
+      "confidence": 0.24014778435230255,
+      "bbox": [
+        353,
+        337,
+        359,
+        343
+      ],
+      "crop_path": "Vehicle\\vnvehicle155.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.23205624520778656,
+      "bbox": [
+        317,
+        295,
+        333,
+        324
+      ],
+      "crop_path": "Vehicle\\vnvehicle156.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "face",
+      "confidence": 0.22181616723537445,
+      "bbox": [
+        422,
+        435,
+        431,
+        443
+      ],
+      "crop_path": "Vehicle\\vnvehicle158.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.21136508882045746,
+      "bbox": [
+        545,
+        376,
+        565,
+        411
+      ],
+      "crop_path": "Vehicle\\vnvehicle160.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.21128226816654205,
+      "bbox": [
+        342,
+        402,
+        365,
+        434
+      ],
+      "crop_path": "Vehicle\\vnvehicle161.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.19892843067646027,
+      "bbox": [
+        386,
+        435,
+        409,
+        458
+      ],
+      "crop_path": "Vehicle\\vnvehicle162.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.19571086764335632,
+      "bbox": [
+        8,
+        560,
+        30,
+        591
+      ],
+      "crop_path": "LPs\\vnlicense_plate163.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "face",
+      "confidence": 0.19523410499095917,
+      "bbox": [
+        419,
+        416,
+        433,
+        432
+      ],
+      "crop_path": "Vehicle\\vnvehicle164.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.1900300830602646,
+      "bbox": [
+        337,
+        290,
+        352,
+        311
+      ],
+      "crop_path": "Vehicle\\vnvehicle165.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "face",
+      "confidence": 0.18927623331546783,
+      "bbox": [
+        361,
+        286,
+        366,
+        290
+      ],
+      "crop_path": "Vehicle\\vnvehicle166.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.18632924556732178,
+      "bbox": [
+        359,
+        285,
+        365,
+        291
+      ],
+      "crop_path": "Vehicle\\vnvehicle167.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.18210424482822418,
+      "bbox": [
+        607,
+        373,
+        615,
+        378
+      ],
+      "crop_path": "LPs\\vnlicense_plate168.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.18131621181964874,
+      "bbox": [
+        469,
+        362,
+        488,
+        395
+      ],
+      "crop_path": "Vehicle\\vnvehicle169.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "gold"
+    },
+    {
+      "label": "face",
+      "confidence": 0.16906370222568512,
+      "bbox": [
+        392,
+        422,
+        400,
+        431
+      ],
+      "crop_path": "Vehicle\\vnvehicle172.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.15704508125782013,
+      "bbox": [
+        323,
+        402,
+        330,
+        408
+      ],
+      "crop_path": "Vehicle\\vnvehicle178.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "face",
+      "confidence": 0.15436559915542603,
+      "bbox": [
+        371,
+        343,
+        377,
+        348
+      ],
+      "crop_path": "Vehicle\\vnvehicle180.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "face",
+      "confidence": 0.15263019502162933,
+      "bbox": [
+        347,
+        304,
+        353,
+        309
+      ],
+      "crop_path": "Vehicle\\vnvehicle181.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.14549337327480316,
+      "bbox": [
+        293,
+        391,
+        299,
+        396
+      ],
+      "crop_path": "Vehicle\\vnvehicle185.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "face",
+      "confidence": 0.14418461918830872,
+      "bbox": [
+        392,
+        426,
+        399,
+        430
+      ],
+      "crop_path": "Vehicle\\vnvehicle187.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.1398506760597229,
+      "bbox": [
+        509,
+        518,
+        576,
+        587
+      ],
+      "crop_path": "Vehicle\\vnvehicle189.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.13983704149723053,
+      "bbox": [
+        373,
+        331,
+        378,
+        336
+      ],
+      "crop_path": "Vehicle\\vnvehicle190.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.135565847158432,
+      "bbox": [
+        259,
+        442,
+        274,
+        460
+      ],
+      "crop_path": "Vehicle\\vnvehicle191.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.1354994773864746,
+      "bbox": [
+        375,
+        285,
+        390,
+        301
+      ],
+      "crop_path": "Vehicle\\vnvehicle192.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "face",
+      "confidence": 0.13269853591918945,
+      "bbox": [
+        346,
+        311,
+        352,
+        316
+      ],
+      "crop_path": "Vehicle\\vnvehicle193.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "face",
+      "confidence": 0.11163973063230515,
+      "bbox": [
+        416,
+        386,
+        421,
+        391
+      ],
+      "crop_path": "Vehicle\\vnvehicle196.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.11150713264942169,
+      "bbox": [
+        476,
+        381,
+        484,
+        386
+      ],
+      "crop_path": "LPs\\vnlicense_plate197.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "face",
+      "confidence": 0.11109143495559692,
+      "bbox": [
+        346,
+        318,
+        352,
+        322
+      ],
+      "crop_path": "Vehicle\\vnvehicle198.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "pink"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.10685889422893524,
+      "bbox": [
+        466,
+        375,
+        472,
+        380
+      ],
+      "crop_path": "LPs\\vnlicense_plate199.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.10586681962013245,
+      "bbox": [
+        321,
+        320,
+        335,
+        342
+      ],
+      "crop_path": "Vehicle\\vnvehicle201.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "face",
+      "confidence": 0.10500585287809372,
+      "bbox": [
+        377,
+        301,
+        383,
+        305
+      ],
+      "crop_path": "Vehicle\\vnvehicle202.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    }
+  ]
+}

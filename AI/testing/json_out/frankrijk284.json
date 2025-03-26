@@ -1,0 +1,18 @@
+{
+  "annotated_image": "out\\frankrijk284.jpg",
+  "detections": [
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.8071784973144531,
+      "bbox": [
+        16,
+        258,
+        601,
+        365
+      ],
+      "crop_path": "LPs\\frankrijk284license_plate0.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    }
+  ]
+}

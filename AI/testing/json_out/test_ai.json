@@ -1,0 +1,395 @@
+{
+  "annotated_image": "out\\test_ai.jpg",
+  "detections": [
+    {
+      "label": "car",
+      "confidence": 0.9517985582351685,
+      "bbox": [
+        506,
+        316,
+        603,
+        407
+      ],
+      "crop_path": "Vehicle\\test_aivehicle0.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9508457183837891,
+      "bbox": [
+        351,
+        382,
+        460,
+        499
+      ],
+      "crop_path": "Vehicle\\test_aivehicle1.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9344717264175415,
+      "bbox": [
+        359,
+        272,
+        435,
+        339
+      ],
+      "crop_path": "Vehicle\\test_aivehicle2.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9321962594985962,
+      "bbox": [
+        227,
+        173,
+        266,
+        207
+      ],
+      "crop_path": "Vehicle\\test_aivehicle3.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9227854013442993,
+      "bbox": [
+        68,
+        268,
+        141,
+        335
+      ],
+      "crop_path": "Vehicle\\test_aivehicle4.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "blue"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9208387136459351,
+      "bbox": [
+        360,
+        163,
+        398,
+        193
+      ],
+      "crop_path": "Vehicle\\test_aivehicle5.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9204014539718628,
+      "bbox": [
+        133,
+        183,
+        177,
+        222
+      ],
+      "crop_path": "Vehicle\\test_aivehicle6.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "tan"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9198928475379944,
+      "bbox": [
+        271,
+        151,
+        301,
+        178
+      ],
+      "crop_path": "Vehicle\\test_aivehicle7.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "car",
+      "confidence": 0.9173510074615479,
+      "bbox": [
+        213,
+        357,
+        308,
+        470
+      ],
+      "crop_path": "Vehicle\\test_aivehicle8.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "brown"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8881644606590271,
+      "bbox": [
+        229,
+        115,
+        252,
+        136
+      ],
+      "crop_path": "Vehicle\\test_aivehicle9.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8787103891372681,
+      "bbox": [
+        214,
+        132,
+        240,
+        159
+      ],
+      "crop_path": "Vehicle\\test_aivehicle10.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8603163957595825,
+      "bbox": [
+        326,
+        126,
+        351,
+        149
+      ],
+      "crop_path": "Vehicle\\test_aivehicle11.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8591955304145813,
+      "bbox": [
+        20,
+        370,
+        124,
+        486
+      ],
+      "crop_path": "Vehicle\\test_aivehicle12.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "red"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.8334123492240906,
+      "bbox": [
+        300,
+        188,
+        317,
+        216
+      ],
+      "crop_path": "Vehicle\\test_aivehicle13.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.8095828294754028,
+      "bbox": [
+        212,
+        93,
+        231,
+        109
+      ],
+      "crop_path": "Vehicle\\test_aivehicle15.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.6890058517456055,
+      "bbox": [
+        295,
+        97,
+        312,
+        112
+      ],
+      "crop_path": "Vehicle\\test_aivehicle16.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "car",
+      "confidence": 0.658332347869873,
+      "bbox": [
+        199,
+        106,
+        217,
+        121
+      ],
+      "crop_path": "Vehicle\\test_aivehicle17.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "car",
+      "confidence": 0.6189477443695068,
+      "bbox": [
+        267,
+        90,
+        282,
+        102
+      ],
+      "crop_path": "Vehicle\\test_aivehicle18.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.5535833835601807,
+      "bbox": [
+        269,
+        111,
+        296,
+        142
+      ],
+      "crop_path": "Vehicle\\test_aivehicle19.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "silver"
+    },
+    {
+      "label": "face",
+      "confidence": 0.40718361735343933,
+      "bbox": [
+        306,
+        183,
+        311,
+        187
+      ],
+      "crop_path": "Vehicle\\test_aivehicle20.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "car",
+      "confidence": 0.3658604919910431,
+      "bbox": [
+        308,
+        116,
+        331,
+        132
+      ],
+      "crop_path": "Vehicle\\test_aivehicle21.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "beige"
+    },
+    {
+      "label": "car",
+      "confidence": 0.35520079731941223,
+      "bbox": [
+        243,
+        92,
+        257,
+        106
+      ],
+      "crop_path": "Vehicle\\test_aivehicle22.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "grey"
+    },
+    {
+      "label": "car",
+      "confidence": 0.35214734077453613,
+      "bbox": [
+        242,
+        101,
+        258,
+        121
+      ],
+      "crop_path": "Vehicle\\test_aivehicle23.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "green"
+    },
+    {
+      "label": "car",
+      "confidence": 0.17672953009605408,
+      "bbox": [
+        243,
+        95,
+        258,
+        113
+      ],
+      "crop_path": "Vehicle\\test_aivehicle25.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "motorbike",
+      "confidence": 0.17260409891605377,
+      "bbox": [
+        191,
+        101,
+        202,
+        116
+      ],
+      "crop_path": "Vehicle\\test_aivehicle26.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "black"
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.16265197098255157,
+      "bbox": [
+        337,
+        141,
+        345,
+        145
+      ],
+      "crop_path": "LPs\\test_ailicense_plate27.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "rectangle license plate",
+      "confidence": 0.1482430398464203,
+      "bbox": [
+        282,
+        166,
+        290,
+        170
+      ],
+      "crop_path": "LPs\\test_ailicense_plate28.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    },
+    {
+      "label": "car",
+      "confidence": 0.1331287920475006,
+      "bbox": [
+        273,
+        126,
+        297,
+        153
+      ],
+      "crop_path": "Vehicle\\test_aivehicle29.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "car",
+      "confidence": 0.10864658653736115,
+      "bbox": [
+        202,
+        111,
+        215,
+        119
+      ],
+      "crop_path": "Vehicle\\test_aivehicle30.jpg",
+      "detection_type": "vehicle",
+      "vehicle_color": "white"
+    },
+    {
+      "label": "square license plate",
+      "confidence": 0.10738416016101837,
+      "bbox": [
+        283,
+        167,
+        290,
+        171
+      ],
+      "crop_path": "LPs\\test_ailicense_plate31.jpg",
+      "detection_type": "license_plate",
+      "vehicle_color": null
+    }
+  ]
+}

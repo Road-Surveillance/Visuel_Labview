@@ -24,7 +24,6 @@
 		<Item Name="SurveillancePanel" Type="Folder">
 			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
 			<Item Name="Consulter_Bilan.vi" Type="VI" URL="../SurveillancePanel/Consulter_Bilan.vi"/>
-			<Item Name="Direct.vi" Type="VI" URL="../SurveillancePanel/Direct.vi"/>
 		</Item>
 		<Item Name="date_and_time.vi" Type="VI" URL="../SurveillancePanel/date_and_time.vi"/>
 		<Item Name="Get_All_detections_JSON.vi" Type="VI" URL="../Python-Integration/Get_All_detections_JSON.vi"/>

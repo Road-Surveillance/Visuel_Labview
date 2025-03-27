@@ -22,12 +22,14 @@
 			<Item Name="Python-exec.vi" Type="VI" URL="../Python-Integration/Python-exec.vi"/>
 		</Item>
 		<Item Name="SurveillancePanel" Type="Folder">
-			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Consulter_Bilan.vi" Type="VI" URL="../SurveillancePanel/Consulter_Bilan.vi"/>
+			<Item Name="camfono.vi" Type="VI" URL="../SurveillancePanel/camfono.vi"/>
 		</Item>
 		<Item Name="date_and_time.vi" Type="VI" URL="../SurveillancePanel/date_and_time.vi"/>
 		<Item Name="Get_All_detections_JSON.vi" Type="VI" URL="../Python-Integration/Get_All_detections_JSON.vi"/>
 		<Item Name="mainPanel.vi" Type="VI" URL="../mainPanel.vi"/>
+		<Item Name="vehicle_counting.vi" Type="VI" URL="../vehicle_counting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="3D Pie Datatype.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Math Plots/3D Math Plots/3D Pie/3D Pie Datatype/3D Pie Datatype.lvclass"/>
